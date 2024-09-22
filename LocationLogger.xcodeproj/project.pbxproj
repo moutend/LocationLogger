@@ -107,7 +107,6 @@
 			developmentRegion = ja;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				en,
 				Base,
 				ja,
 			);
