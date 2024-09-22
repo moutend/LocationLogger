@@ -11,6 +11,7 @@
 		BA64DB042CA00128009EBBF5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA64DB032CA00128009EBBF5 /* ContentView.swift */; };
 		BA64DB062CA00129009EBBF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA64DB052CA00129009EBBF5 /* Assets.xcassets */; };
 		BA64DB092CA00129009EBBF5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA64DB082CA00129009EBBF5 /* Preview Assets.xcassets */; };
+		BACA467C2CA0064E00DDA21E /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BACA467B2CA0064E00DDA21E /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BA64DB032CA00128009EBBF5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BA64DB052CA00129009EBBF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA64DB082CA00129009EBBF5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BACA467B2CA0064E00DDA21E /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BA64DB012CA00128009EBBF5 /* LocationLoggerApp.swift */,
 				BA64DB032CA00128009EBBF5 /* ContentView.swift */,
+				BACA467B2CA0064E00DDA21E /* LocationManager.swift */,
 				BA64DB052CA00129009EBBF5 /* Assets.xcassets */,
 				BA64DB072CA00129009EBBF5 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				BA64DB042CA00128009EBBF5 /* ContentView.swift in Sources */,
 				BA64DB022CA00128009EBBF5 /* LocationLoggerApp.swift in Sources */,
+				BACA467C2CA0064E00DDA21E /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
