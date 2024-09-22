@@ -109,6 +109,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ja,
 			);
 			mainGroup = BA64DAF52CA00128009EBBF5;
 			productRefGroup = BA64DAFF2CA00128009EBBF5 /* Products */;
