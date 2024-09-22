@@ -104,7 +104,7 @@
 			};
 			buildConfigurationList = BA64DAF92CA00128009EBBF5 /* Build configuration list for PBXProject "LocationLogger" */;
 			compatibilityVersion = "Xcode 14.0";
-			developmentRegion = en;
+			developmentRegion = ja;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
